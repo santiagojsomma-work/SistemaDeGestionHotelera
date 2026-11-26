@@ -1,0 +1,25 @@
+# Compilación
+*.class
+bin/
+build/
+
+# Eclipse
+.settings/
+.metadata/
+RemoteSystemsTempFiles/
+
+# Archivos generados (no se suben al repo)
+TP_Integrador/data/
+*.csv
+*.txt
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups
+*.bak
+*.old
+*~
